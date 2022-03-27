@@ -1,0 +1,5 @@
+python -m ensurepip --default-pip
+python -m pip install sklearn
+python -m pip install numpy
+
+
